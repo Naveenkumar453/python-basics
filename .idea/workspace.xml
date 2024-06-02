@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17b6a469-77a2-4407-bdc5-eb82856d3803" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-type_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-string_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-multiple_assignments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-accept_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-numbers_math_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-string_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-if_else_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Logical-Oprators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-while-loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-for_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-nested_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-loo_control_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.2D_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.Index_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.return_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.keyword_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.nested_function_calls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.variables_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.args_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.string_format_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.random_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.file_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.write_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.copy_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.move_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.delete_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hDB2nc4Safufg0lvCzabxXeCuH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.08-if_else_statements.executor": "Run",
+    "Python.09-Logical-Oprators.executor": "Run",
+    "Python.10-while-loops.executor": "Run",
+    "Python.11-for_loops.executor": "Run",
+    "Python.12-nested_loops.executor": "Run",
+    "Python.14-loo_control_statements.executor": "Run",
+    "Python.15-lists.executor": "Run",
+    "Python.16.2D_lists.executor": "Run",
+    "Python.17.tuples.executor": "Run",
+    "Python.18.sets.executor": "Run",
+    "Python.19.dictionary.executor": "Run",
+    "Python.20.Index_operator.executor": "Run",
+    "Python.21.functions.executor": "Run",
+    "Python.22.return_statements.executor": "Run",
+    "Python.23.keyword_arguments.executor": "Run",
+    "Python.24.nested_function_calls.executor": "Run",
+    "Python.25.variables_scope.executor": "Run",
+    "Python.26.args_parameters.executor": "Run",
+    "Python.27.kwargs.executor": "Run",
+    "Python.28.string_format_method.executor": "Run",
+    "Python.29.random_module.executor": "Run",
+    "Python.30.exception_handling.executor": "Run",
+    "Python.31.file_detection.executor": "Run",
+    "Python.32.read_file.executor": "Run",
+    "Python.33.write_file.executor": "Run",
+    "Python.34.copy_file.executor": "Run",
+    "Python.35.move_files.executor": "Run",
+    "Python.36.delete_files.executor": "Run",
+    "Python.37.modules.executor": "Run",
+    "Python.accept_user_input.executor": "Run",
+    "Python.messages.executor": "Run",
+    "Python.multiple_assignments.executor": "Run",
+    "Python.numbers_math_functions.executor": "Run",
+    "Python.string_methods.executor": "Run",
+    "Python.string_slicing.executor": "Run",
+    "Python.type_casting.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17b6a469-77a2-4407-bdc5-eb82856d3803" name="Changes" comment="" />
+      <created>1717118562411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717118562411</updated>
+    </task>
+    <servers />
+  </component>
+</project>
