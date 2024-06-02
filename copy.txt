@@ -1,0 +1,3 @@
+Checking if this overwrites previous textChecking with 'a' for appending/nChecking with 'a' for appending
+Checking with 'a' for appending
+Checking with 'a' for appending
