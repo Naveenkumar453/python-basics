@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b6a469-77a2-4407-bdc5-eb82856d3803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-type_casting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-string_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-multiple_assignments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-accept_user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-numbers_math_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-string_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-if_else_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Logical-Oprators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-while-loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-for_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-nested_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-loo_control_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.2D_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.Index_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.return_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.keyword_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.nested_function_calls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.variables_scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.args_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28.string_format_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.random_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30.exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31.file_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.write_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34.copy_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35.move_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36.delete_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37.modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/messages.py" afterDir="false" />
-    </list>
+    <list default="true" id="17b6a469-77a2-4407-bdc5-eb82856d3803" name="Changes" comment="python practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +70,8 @@
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -133,6 +90,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717118562411</updated>
     </task>
+    <task id="LOCAL-00001" summary="python practice">
+      <option name="closed" value="true" />
+      <created>1717319902711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717319902711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="python practice" />
   </component>
 </project>
